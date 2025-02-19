@@ -1,6 +1,5 @@
 # Hi there, I'm Abdallah Mostafa 👋
 
-<img src="https://tenor.com/view/roy-leops-roy-leops-gojo-waving-gif-14322012650487993527" width="600">
 
 🚀 **Senior Software Engineer**  
 💻 Passionate about scalable web applications, optimization, and clean code  
