@@ -1,5 +1,7 @@
 # Hi there, I'm Abdallah Mostafa 👋
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
+
 🚀 **Senior Software Engineer**  
 💻 Passionate about scalable web applications, optimization, and clean code  
 📍 Open for collaborations and mentoring  
